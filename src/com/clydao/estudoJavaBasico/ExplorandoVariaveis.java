@@ -1,4 +1,4 @@
-package com.clydao.estudoJava;
+package com.clydao.estudoJavaBasico;
 
 public class ExplorandoVariaveis {
     public static void main(String[] args) {
