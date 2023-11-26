@@ -1,5 +1,7 @@
 package com.clydao.estudoPoo.classeObjetos;
 
+import com.clydao.estudoPoo.classeObjetos.Carro;
+
 public class TesteCarro {
     public static void main(String[] args) {
         // Criando objetos da classe Carro
