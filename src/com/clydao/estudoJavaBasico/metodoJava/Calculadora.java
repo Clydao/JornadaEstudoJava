@@ -1,4 +1,4 @@
-package com.clydao.estudoJavaBasico.MetodoJava;
+package com.clydao.estudoJavaBasico.metodoJava;
 
 public class Calculadora {
 

@@ -1,4 +1,4 @@
-package com.clydao.estudoJavaBasico.MetodoJava;
+package com.clydao.estudoJavaBasico.metodoJava;
 
 public class TesteCalculadora {
     public static void main(String[] args) {
